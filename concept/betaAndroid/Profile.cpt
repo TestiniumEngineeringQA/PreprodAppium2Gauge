@@ -1,0 +1,122 @@
+Created by pc on 23.05.2025
+
+This is a concept file with following syntax for each concept.
+# Yakındaki mağazalar üzerinde kontroller sağlanır
+* Elementine tıkla "Profile_Yakındaki_Magazalar_Button"
+ Element var mı kontrol et "Profile_Yakındaki_Magazalar_Harita_Button"
+* Element var mı kontrol et "Profile_Yakındaki_Magazalar_Konumu_Gor_Button"
+//* Element var mı kontrol et "Profile_Yakındaki_Magazalar_Listelenen_Mağaza_Text"
+* Element var mı kontrol et "Profile_Calısma_Saatleri_Text"
+* Element var mı kontrol et "Profile_Yakındaki_Magazalar_İl_İlce_Secim"
+* Elementine tıkla "Profile_Yakındaki_Magazalar_İl_İlce_Secim"
+* Elementine tıkla "Profile_Yakındaki_Magazalar_İl_İlce_Secim_1"
+* Elementine tıkla "Profile_Yakındaki_Magazalar_İl_Secim"
+* Elementine tıkla "Profile_Yakındaki_Magazalar_İl_İlce_Secim_2"
+* Elementine tıkla "Profile_Yakındaki_Magazalar_İlce_Secim"
+* Elementine tıkla "Profile_Magazları_Göster_Button"
+
+# Yardım ve destek tabı üzerinde kontroller sağlanır
+* Elementine tıkla "Profile_YardımVeDstekk_Button"
+* Element var mı kontrol et "Profile_Yardım_Destek_Uyelik"
+* Element var mı kontrol et "Profile_Yardım_Destek_Odeme"
+* Element var mı kontrol et "Profile_Yardım_Destek_SıparisTeslimat"
+* Element var mı kontrol et "Profile_Yardım_Destek_Iade_Sıkayet"
+
+# İletişim tabı üzerinde kontroller sağlanır
+* Elementine tıkla "Profile_İletişim_Button"
+* Element var mı kontrol et "Profile_İletişim_Tab_Bizi_Arayın"
+
+# Üyelik sözleşmesi tabı üzerinde kontroller sağlanır
+* Elementine tıkla "Profile_Uyelik_Sozlesmesi_Button"
+* Element var mı kontrol et "Profile_Uyelik_Sozleşmesi"
+
+# Gizlilik ve güvenlik sözleşmesi tabı üzerinde kontroller sağlanır
+* "Profile_Gizliklik_Guvenlik_Soz_Button" li elementi bulana kadar swipe et
+* Elementine tıkla "Profile_Gizliklik_Guvenlik_Soz_Button"
+* "android.widget.TextView" tipindeki "text" attribute degeri olan "Çerez Nedir?" değerini içeren text'in görüntülendiği kontrol edilir
+//* Element var mı kontrol et "Profile_GizlilikveGüvenlik_Kontrol"
+
+# Kullanım koşulları tabı üzerinde kontroller sağlanır
+* "1" kere aşağıya kaydır
+* Elementine tıkla "Profile_Kullanım_Koşulları_Button"
+* Element var mı kontrol et "Profile_KullanımKosulları_Kontrol"
+
+# Bilgi toplumu hizmetleri tabı üzerinde kontroller sağlanır
+* "1" kere aşağıya kaydır
+* Elementine tıkla "Profile_Bilgi_Toplumu_Hizmetleri_Button"
+//* Element var mı kontrol et "Profile_KullanımKosulları_Kontrol"
+
+
+# Profilim alanındaki favoriler alanına gidilir ve kontroller sağlanır
+* Elementine tıkla "Profile_Favorilerim_Menu_Button"
+* Elementine tıkla "Profile_Favorilerim_YeniListeOlustur_Button"
+* "deneme" textini "Profile_Favorilerim_YenisListText" elemente yaz
+* Elementine tıkla "Profile_Favorilerim_YenisListText_Kaydet"
+* Element var mı kontrol et "Profile_Favorilerim_Deneme_Text_Kontrol"
+* Elementine tıkla "Profile_Favorilerim_Deneme_Text_Kontrol"
+* "3" saniye bekle
+* Elementine tıkla "Profile_Favorilerim_Delete"
+ Elementine tıkla "Profile_Favorilerim_Delete"
+* Elementine tıkla "Profile_Favorilerim_Delete_Kabul"
+
+# Profilim alanındaki favoriler detay alanına gidilir ve kontroller sağlanır
+* Elementine tıkla "Profile_Favorilerim_Menu_Button"
+* "android.widget.TextView" tipindeki "text" attribute degeri olan "favs" text değerini içeren butona tiklanir
+* Element var mı kontrol et "Profile_Favorilerim_Liste_Detay_Kategori_Kontrol"
+* Elementine tıkla "Profile_Favorilerim_Liste_Detay_Kategori_Kontrol"
+
+
+# Profilim alanındaki favorilere gidilir aynı isim test edilir
+* Elementine tıkla "Profile_Favorilerim_Menu_Button"
+* Favorilerim "favs" liste oluşturulur max liste kontrolü yapılır
+* "2" saniye bekle
+* Element var mı kontrol et "Profile_Favorilerim_Aynıİsim_Liste_Text_Kontrol"
+
+# Profilim alanındaki favorilere gidilir max fav list test edilir
+* Elementine tıkla "Profile_Favorilerim_Menu_Button"
+* Favorilerim "Fav9" liste oluşturulur max liste kontrolü yapılır
+* Element var mı kontrol et "Profile_Favorilerim_Max_Liste_Text_Kontrol"
+
+
+
+
+# Favorilerim yeni liste oluşturma alanından liste oluşturulur
+* Elementine tıkla "Profile_Favorilerim_YeniListeOlustur_Button"
+*"deneme" textini "Profile_Favorilerim_YenisListText" elemente yaz
+* Elementine tıkla "Profile_Favorilerim_YenisListText_Kaydet"
+* Element var mı kontrol et "Profile_Favorilerim_Deneme_Text_Kontrol"
+* Elementine tıkla "Profile_Favorilerim_Deneme_Text_Kontrol"
+
+# Favorilerim <text> liste oluşturulur max liste kontrolü yapılır
+* Elementine tıkla "Profile_Favorilerim_YeniListeOlustur_Button"
+* <text> textini "Profile_Favorilerim_YenisListText" elemente yaz
+* Elementine tıkla "Profile_Favorilerim_YenisListText_Kaydet"
+
+
+# Profilim adreslerim alanına gidilir ve kontroller sağlanır
+* Elementine tıkla "Profile_Adreslerim_Menu"
+//* Element var mı kontrol et "Profile_Favorilerim_Deneme_Text_Kontrol"
+//* Element var mı kontrol et "Profile_Adreslerim_AdresIsmi_Kontrol"
+* Element var mı kontrol et "Profile_Adreslerim_DüzenleButon_Kontrol"
+//todo
+
+# Profilim gratis kartım alanına gidilir ve kontroller sağlanır
+* Elementine tıkla "Profile_Gratis_Kartım_Menu"
+* Element var mı kontrol et "Profile_Gratis_Kartım_KullancııAdı"
+* Element var mı kontrol et "Profile_Puan_Menu_Kontrol"
+* Element var mı kontrol et "Profile_GratisKartım_Text1_Kontrol"
+* Element var mı kontrol et "Profile_GratisKartım_Text2_Kontrol"
+* Element var mı kontrol et "Profile_GratisKartım_Text3_Kontrol"
+
+# Profilim puanlarım alanına gidilir ve kontroller sağlanır
+* Elementine tıkla "Profile_Puanlarım_Menu"
+* Element var mı kontrol et "Profile_Puan_Menu_Kontrol"
+//* "android.widget.TextView" tipindeki "text" attribute degeri olan "10.000,00 Puan" text değerini içeren butona tiklanir
+//* Element var mı kontrol et "Profile_Puanlarım_KazanılanTarih_Kontrol"
+
+# Favorilerime gidilir ve ürün favorilerden kaldırılır
+* Elementine tıkla "Profile_Tab_MainMenu_Button"
+* Elementine tıkla "Profile_Tab_Favorilerim_Button"
+* Elementine tıkla "Profile_Tab_Favorilerim_Ilk_Liste_Button"
+* Elementine tıkla "Urun_Listesi_Ilk_Urun_Fav_Ekle_Button"
+

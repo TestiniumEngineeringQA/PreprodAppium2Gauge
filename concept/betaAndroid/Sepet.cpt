@@ -1,0 +1,66 @@
+Created by pc on 25.05.2025
+
+This is a concept file with following syntax for each concept.
+
+
+# Alışverişi tamamla butonu ile devam edilir
+* Elementine tıkla "Sepet_Alısverisi_Tamamla_Button"
+
+
+# Teslimat sayfasında genel kontroller sağlanır
+* Element var mı kontrol et "Siparisi_Tamamla_Teslimat_Secenekler_Text_Kontrol"
+* Element var mı kontrol et "Teslimat_Magazadan_Teslim_Alacağım_Kontrol"
+* Element var mı kontrol et "Teslimat_Adrese_Teslim_Text_Kontrol"
+
+# Adrese teslim seçimi ile ilerlenir
+* Elementine tıkla "Sepet_Teslimat_AdreseTeslim_Secenek"
+//* Element var mı kontrol et "Sepet_Teslimat_AdreseTeslim_Kontrol"
+
+# Mağazadan teslim il ilçe mağaza seçimi yapılır
+* Elementine tıkla "Teslimat_İl_Seciniz_Dropdown"
+* Elementine tıkla "Teslimat_İl_Secim"
+* Elementine tıkla "Teslimat_İlce_Secim"
+//* Elementine tıkla "Teslimat_Magaza_Calısma_Saatleri"
+//* Element var mı kontrol et "Teslimat_Magaza_Calısma_Saatleri_Kontrol"
+* Elementine tıkla "Teslimat_Magaza_Konum_Gor_Button"
+* Element var mı kontrol et "Teslimat_Magaza_Konum_Kontrol_Area"
+* Geri butonuna bas
+* Geri butonuna bas
+* Elementine tıkla "Teslimat_Magaza_Secim_Button"
+
+# Mağazadan teslim alacak kişi bilgileri girilir
+* Elementine tıkla "Teslimat_Magazdan_TeslimAlacakKısı_Edit_Button"
+* Elementine tıkla "Teslimat_Magazdan_TeslimAlacakKısı_Kaydet_Button"
+* Element var mı kontrol et "Teslimat_Magazdan_TeslimAlacakKısı_AdZorunluText"
+* Element var mı kontrol et "Teslimat_Magazdan_TeslimAlacakKısı_SoyadZorunluText"
+* Element var mı kontrol et "Teslimat_Magazdan_TeslimAlacakKısı_TelefonZorunluText"
+* "TestAd" textini "Teslimat_Magazdan_TeslimAlacakKısı_Ad_Edit" elemente yaz
+* "TestSoyad" textini "Teslimat_Magazdan_TeslimAlacakKısı_Soyad_Edit" elemente yaz
+* "2" saniye bekle
+* "995555502" textini "Teslimat_Magazdan_TeslimAlacakKısı_Telefon_Edit" elemente yaz
+* "2" saniye bekle
+* Elementine tıkla "Teslimat_Magazdan_TeslimAlacakKısı_Kaydet_Button"
+
+# Mağazadan teslim fatura işlemleri yapılır
+//* "Teslimat_Magazdan_TeslimAlacakKısı_Edit_Text_Kontrol" elementinin "text" attiribute değerinin  "test test, (599) 555 55 02" text degerine sahip oldugu kontrol edilir
+ "1" kere aşağıya kaydır
+* "Teslimat_Magazdan_Teslim_Fatura_Kontrol" li elementi bulana kadar swipe et
+* Element var mı kontrol et "Teslimat_Magazdan_Teslim_Fatura_Kontrol"
+//* Elementine tıkla "Teslimat_Magazdan_Teslim_Fatura_Edit_Button"
+* Elementine tıkla "Teslimat_Magazdan_Teslim_Fatura_Kontrol"
+* Elementine tıkla "Teslimat_Magazdan_Teslim_Fatura_Yeni_Ekle_Button"
+* Android Geri tıkla
+* Android Geri tıkla
+ Elementine tıkla "Teslimat_Magazdan_Teslim_Fatura_Adresimi_Kaydet_Button"
+
+# Mağazadan teslim Checkbox işaretlenir ödeme adımına geçilir
+* Elementine tıkla "Sepet_Teslimat_Checkbox_Button"
+* Elementine tıkla "Sepet_Teslimat_OdemeAdımınaGec_Button"
+
+# Adrese teslim ödeme adımına geçilir
+* Elementine tıkla "Sepet_Teslimat_OdemeAdımınaGec_Button"
+
+# Sepet sayfasında genel kontroller sağlanır
+* Element var mı kontrol et "Sepet_PromosyonKodu_Alanı"
+* Element var mı kontrol et "Sepet_HediyeKart_Alanı"
+* Element var mı kontrol et "Sepet_GratisPuan_Alanı"

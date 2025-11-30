@@ -1,0 +1,250 @@
+Created by testinium on 17.12.2024
+
+This is a concept file with following syntax for each concept.
+# Beta uygulamasi baslatilir.
+* "5" saniye bekle
+//* Elementin yüklenmesini bekle "betaUygulamaAnasayfa"
+//* Elementin yüklenmesini bekle "betaMakyajKategori"
+
+# Profil tabina tiklanir.
+* Değeri "Profil" e eşit olan elementi bul ve tıkla
+
+# Giris yap butonuna tiklanir.
+* Elementine tıkla "betaProfilTab"
+//* Değeri "Giriş Yap" e eşit olan elementi bul ve tıkla
+
+# Telefon numarasi girisi yapilir.
+
+//* "betaPhoneNumberInput" li elementi bul, temizle ve "995555503" değerini yaz
+* "995555503" textini "betaPhoneNumberInput" elemente yaz
+* "10" saniye bekle
+
+# IOS Beta uygulamasi baslatilir.
+* "5" saniye bekle
+* Elementin yüklenmesini bekle "betaUygulamaAnasayfa"
+
+# IOS Profil tabina tiklanir.
+* Elementine tıkla "betaProfilTab"
+
+# IOS Giris yap butonuna tiklanir.
+* Elementine tıkla "betaGirisYapBtn"
+
+# IOS Telefon numarasi girisi yapilir.
+* "IOSPhone" csv dosyasindan rastgele kullanici sec
+//* Beta yeni Rastgele secilen kullanici adi "betaPhoneNumberInput" elementine, sifre "betaSmsCodeInput" elementine yazilir
+//* "betaPhoneNumberInput" li elementi bul, temizle ve "995555503" değerini yaz
+//* "995555503" textini "betaPhoneNumberInput" elemente yaz
+* "10" saniye bekle
+
+# Notification location izinleri verilir
+* "5" saniye bekle
+* "popupOkayButton" li element varsa tıkla yoksa devam et
+* "Notification_Allow_Button" li element varsa tıkla yoksa devam et
+* "locationPermissionBtnAnd" li element varsa tıkla yoksa devam et
+* "Location_Permission_Only_App_Using" li element varsa tıkla yoksa devam et
+/* Elementine tıkla "popupOkayButton"
+/* Elementine tıkla "Notification_Allow_Button"
+/* Elementine tıkla "locationPermissionBtnAnd"
+/* Elementine tıkla "Location_Permission_Only_App_Using"
+* Geri butonuna bas
+
+# Android giriş yapılır
+* "4" saniye bekle
+* Elementine tıkla "Anasayfa_Giris_Yapın_Button"
+* "995555502" textini "Uye_Gırısı_Telefon_Numarası_Text" elemente yaz
+* Elementine tıkla "Uye_Gırısı_Gırıs_Yap_Button"
+* "1" saniye bekle
+* "141414" textini "Register_Telefon_Numarası_Text_Area" elemente yaz
+* "3" saniye bekle
+* "Email_Dogrulama" li element varsa tıkla
+* Element var mı kontrol et "Home_Page_UserName_Control"
+* Sepet doluysa tüm ürünleri sepetten çıkar
+
+# Android giriş yapılır 06
+*  "4" saniye bekle
+* Elementine tıkla "Anasayfa_Giris_Yapın_Button"
+* "995555506" textini "Uye_Gırısı_Telefon_Numarası_Text" elemente yaz
+* Elementine tıkla "Uye_Gırısı_Gırıs_Yap_Button"
+* "1" saniye bekle
+* "141414" textini "Register_Telefon_Numarası_Text_Area" elemente yaz
+* "3" saniye bekle
+* Sepet doluysa tüm ürünleri sepetten çıkar
+
+# Android giriş yapılır 04
+* "5" saniye bekle
+* Elementine tıkla "Anasayfa_Giris_Yapın_Button"
+* "995555504" textini "Uye_Gırısı_Telefon_Numarası_Text" elemente yaz
+* Elementine tıkla "Uye_Gırısı_Gırıs_Yap_Button"
+* "1" saniye bekle
+* "141414" textini "Register_Telefon_Numarası_Text_Area" elemente yaz
+* "3" saniye bekle
+* Sepet doluysa tüm ürünleri sepetten çıkar
+
+# Android giriş yapılır 03
+* "5" saniye bekle
+* Elementine tıkla "Anasayfa_Giris_Yapın_Button"
+* "995555503" textini "Uye_Gırısı_Telefon_Numarası_Text" elemente yaz
+* Elementine tıkla "Uye_Gırısı_Gırıs_Yap_Button"
+* "1" saniye bekle
+* "141414" textini "Register_Telefon_Numarası_Text_Area" elemente yaz
+* "3" saniye bekle
+
+# Android giriş yapılır 2
+* "5" saniye bekle
+* Elementine tıkla "Anasayfa_Giris_Yapın_Button"
+* "995555502" textini "Uye_Gırısı_Telefon_Numarası_Text" elemente yaz
+* Elementine tıkla "Uye_Gırısı_Gırıs_Yap_Button"
+* "141414" textini "Register_Telefon_Numarası_Text_Area" elemente yaz
+* "3" saniye bekle
+* "Email_Dogrulama" li element varsa tıkla
+* Element var mı kontrol et "Home_Page_UserName_Control"
+
+
+# Android non login giriş yapılır
+* "995555502" textini "Uye_Gırısı_Telefon_Numarası_Text" elemente yaz
+* Elementine tıkla "Uye_Gırısı_Gırıs_Yap_Button"
+* "Register_Telefon_Numarası_Text_Area" li elementi bul, temizle ve "141414" değerini yaz
+* "3" saniye bekle
+//* "141414" textini "Register_Telefon_Numarası_Text_Area" elemente yaz
+//* Element var mı kontrol et "Home_Page_UserName_Control"
+
+# Sepet alanına gidilir
+* Elementine tıkla "Sepet_Bottom_Bar_Menu"
+* "Kasa_Arkası_Urunler_Popup_Close" li element varsa tıkla yoksa devam et
+
+
+# Sepette fiyata tıklayınca açılan sheet kontrol edilir
+//* Elementine tıkla "Sepet_Bottom_Bar_Menu"
+ Element var mı kontrol et "Sepet_Fiyat_Bottom_Sheet_Alanı_Button"
+* Elementine tıkla "Sepet_Fiyat_Bottom_Sheet_Alanı_Button"
+* Element var mı kontrol et "Sepet_Fiyat_Bottom_Sheet_Alanı_UrunlerText_Kontrol"
+* Element var mı kontrol et "Sepet_Fiyat_Bottom_Sheet_Alanı_GratisKart_Kontrol"
+
+# Sepet doluysa boşalt
+* Elementine tıkla "Sepet_Bottom_Bar_Menu"
+* Elementine tıkla "Kasa_Arkası_Urunler_Popup_Close"
+* Elementine tıkla "Sepet_Tumunu_Sil_Button"
+* Element var mı kontrol et "Sepet_Tumunu_Vazgec_Popup_Button"
+* Elementine tıkla "Sepet_Tumunu_Sil_Popup_Button"
+* Element var mı kontrol et "Sepet_Urun_Empty_Trash_Control"
+* Element var mı kontrol et "HomePageButton_MainMenu"
+
+
+# Sayfada <arananKelime> arama yapılır
+* Elementine tıkla "Home_Search_Area_Click"
+* <arananKelime> textini "HomePage_Search_Area" elemente yaz
+* Android Enter tıkla
+
+# İlk ürün sepete eklenir
+* Elementine tıkla "Urunler_Page_Urun_Ilk_Ekle_Buton"
+//* Element var mı kontrol et "Sepet_Urun_Basarıyla_Eklenmistir_Mesaj_Control"
+
+# Ürün detayına gidilir
+* Elementine tıkla "Image_Product_Detail_Button"
+
+# Tüm yorumları görüntüle
+* Elementine tıkla "Tum_Yorumları_Goruntule_Button"
+
+# Favorilerim eklenir ve kontrol edilir
+* Elementine tıkla "Basket_First_Product_Fav_Button"
+* Elementine tıkla "Favori_Ekle_Button"
+* Element var mı kontrol et "Fav_Toast_Message"
+* Elementine tıkla "Profile_Tab_MainMenu_Button"
+* Elementine tıkla "Profile_Favorilerim_Menu_Button"
+
+# Ürün detay ürün favorilere eklenir ve kontrol edilir
+* Elementi var mı kontrol et "UrunDetay_Favori_Ekle_Button"
+* Elementine tıkla "UrunDetay_Favori_Ekle_Button"
+* Elementine tıkla "Favori_Ekle_Button"
+* Elementi var mı kontrol et "Fav_Toast_Message"
+* Android Geri tıkla
+* Elementine tıkla "Profile_Tab_MainMenu_Button"
+* Elementine tıkla "Profile_Favorilerim_Menu_Button"
+
+# Ürün favorilerden silinir
+* Elementine tıkla "Favorilerim_Ilk_Favori_Listesi"
+* "1" saniye bekle
+* Elementine tıkla "Login_Olmadan_İlk_Urun_Fax_Button"
+* Element var mı kontrol et "Favorilerim_Favori_Kaldirildi_Toast_Message"
+
+# Ürün detay non login ürün favorilere eklenir ve kontrol edilir
+ Android non login giriş yapılır
+* Elementine tıkla "UrunDetay_Favori_Ekle_Button"
+* Elementine tıkla "Favori_Ekle_Button"
+//* Element var mı kontrol et "Fav_Toast_Message"
+* Android Geri tıkla
+* Android Geri tıkla
+* Elementine tıkla "Profile_Tab_MainMenu_Button"
+* Elementine tıkla "Profile_Favorilerim_Menu_Button"
+
+# Marka alanına ilerle ve kontrol sağla
+* Elementine tıkla "Product_Detail_Brand_Name"
+* Element var mı kontrol et "ÜrünDetay_Marka_Urun_Kontrol"
+
+# Sharelink kontrol sağla
+* Elementine tıkla "ÜrünDetay_UrunPaylas_Butonu"
+* "1" saniye bekle
+* Element var mı kontrol et "ÜrünDetay_ShareLink_Kontrol"
+
+# Fotoğraf alanı kontrol sağla
+* Elementine tıkla "ÜrünDetay_Büyütme_Butonu"
+* Element var mı kontrol et "ÜrünDetay_Foto_Kontrol"
+
+# Filtreleme işlemleri kontrol edilir
+* Elementine tıkla "Urun_List_Filtreleme_Button"
+* Elementine tıkla "Sadece_Stokta_Olan_Ürünler"
+* Elementine tıkla "Filtreleme_Göster_Butonu"
+
+
+# Filtreleme işlemleri marka kontrol edilir
+* Elementine tıkla "Urun_List_Filtreleme_Button"
+//* Elementine tıkla "Filtrele_Kategoriler_Button"
+* Elementine tıkla "Filtrele_Kategoriler_Marka_Button"
+* Elementine tıkla "Listeleme_Filtrele_Marka_Kontrol"
+* Elementine tıkla "Listeleme_Filtrele_Uygula_Button"
+* Elementine tıkla "Filtreleme_Göster_Butonu"
+* Element var mı kontrol et "Listeleme_Filtrele_Marka_Kontrol"
+
+# Filtreleme işlemleri fiyat kontrol edilir
+* Elementine tıkla "Urun_List_Filtreleme_Button"
+* "1" kere aşağıya kaydır
+* Elementine tıkla "Filtreleme_Fiyat_Aralığı"
+
+
+# Daha fazla göster butonuna tıklanır
+* Elementine tıkla "Profile_Daha_Fazla_Goster_Button"
+
+
+# Ana menüden profil sekmesine gidilir
+* Elementine tıkla "Profile_Tab_MainMenu_Button"
+
+
+
+# Android 05 numarali hesapla giris yapilir
+* Element var mı kontrol et "HomePage_Uye_Olun_Button"
+* Elementine tıkla "HomePage_Uye_Olun_Button"
+* "995555505" textini "Uye_Gırısı_Telefon_Numarası_Text" elemente yaz
+* Elementine tıkla "Uye_Gırısı_Gırıs_Yap_Button"
+* "1" saniye bekle
+
+* "141414" textini "Register_Telefon_Numarası_Text_Area" elemente yaz
+
+# Android Hesabim ve ayarlarim menüsüne tiklanir
+* Elementine tıkla "Profil_Hesabim_Ve_Ayarlarim_Button"
+
+# Android Üyelik Bilgilerim menüsüne tiklanir
+* Elementine tıkla "Hesabim_Ve_Ayarlarim__Uyelik_Bilgilerim_Button"
+
+# Android Üyelikten ayrıl butonuna tiklanir
+* "2" kere aşağıya kaydır
+* Elementine tıkla "Uyelik_Bilgilerim_Uyelikten_Ayril_Button"
+
+# Hesabı silmek istendiğine dair uyari mesajları görüntülenir ve sil butonuna tiklanir
+* "android.widget.TextView" tipindeki "text" attribute degeri olan "Hesabınızı Silmek İstediğinizden Emin Misiniz?" değerini içeren text'in görüntülendiği kontrol edilir
+* "android.widget.TextView" tipindeki "text" attribute degeri olan "Onay vermeniz durumunda mevcut ve geçmiş dönemdeki tüm sipariş bilgileriniz tekrar erişilemeyecek şekilde silinecektir." değerini içeren text'in görüntülendiği kontrol edilir
+* Elementine tıkla "Uyelikten_Ayril_Sil_Button"
+* "1" saniye bekle
+# Hesabın silindiğine dair uyarı mesajı görüntülenir
+* "android.widget.TextView" tipindeki "text" attribute degeri olan "Hesabınız başarıyla silinmiştir. Dilediğiniz zaman Gratis avantajlarından yararlanmak için tekrar üye olabilirsiniz." değerini içeren text'in görüntülendiği kontrol edilir
+
+
