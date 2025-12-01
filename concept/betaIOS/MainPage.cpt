@@ -1,12 +1,6 @@
 Created by testinium on 6.01.2025
 
 This is a concept file with following syntax for each concept.
-# Gratis Beta uygulamasi baslatilir
-* "2" saniye bekle
-* "betaLocationPermission" li element varsa tıkla
-* "betaNotificationPermission" li element varsa tıkla
-* "betaNotificationPermission" li element varsa tıkla
-* "1" saniye bekle
 
 
 # Beta uygulaması izinler onaylanır

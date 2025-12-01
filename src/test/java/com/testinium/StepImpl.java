@@ -67,32 +67,6 @@ public class StepImpl extends HookImpl {
     public StepImpl() {
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     public boolean doesElementExistByKey(String key, int timeInSeconds) {
         SelectorInfo selectorInfo = selector.getSelectorInfo(key);
         try {
