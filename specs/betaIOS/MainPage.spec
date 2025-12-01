@@ -10,3 +10,6 @@ Demo
 -----
 tags: IOS_GratisBeta_Demo
 * Beta uygulaması izinler onaylanır
+* Profil tabina tiklanir
+* Profil tabindan Giris yap butonuna tıklanır
+
