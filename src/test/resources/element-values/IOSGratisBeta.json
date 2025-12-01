@@ -19,6 +19,27 @@
     "androidType": "",
     "iosValue": "denemeeeeee",
     "iosType": "accessibilityId"
+  },
+  {
+    "key": "gratisHomePageProfilTab",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "**/XCUIElementTypeButton[`label == \"Profil\"`]",
+    "iosType": "classChain"
+  },
+  {
+    "key": "gratisProfilTabLoginButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "profileHeaderLoginRegisterBtn",
+    "iosType": "accessibilityId"
+  },
+  {
+    "key": "betaProfilUyeOlBtn",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "profileLoginRegisterBtn",
+    "iosType": "accessibilityId"
   }
 
 ]
