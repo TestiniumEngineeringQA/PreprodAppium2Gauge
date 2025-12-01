@@ -2581,6 +2581,13 @@
     "androidType": "",
     "iosValue": "mainTabFavoriteBtn",
     "iosType": "accessibilityId"
+  },
+  {
+    "key": "FailTabIOS",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "denemeeeeee",
+    "iosType": "accessibilityId"
   }
 
 ]

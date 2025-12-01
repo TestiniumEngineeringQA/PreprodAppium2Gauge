@@ -1,0 +1,14 @@
+Created by n100922 on 1.12.2025
+
+This is a concept file with following syntax for each concept.
+# Profil tabina tiklanir (ANDROID)
+* "7" saniye bekle
+* Elementin yüklenmesini bekle "betaProfilTab"
+* "betaProfilTab" li element varsa tıkla
+* "2" saniye bekle
+
+# Profil tabindan Giris yap butonuna tıklanır Fail (ANDROID)
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "FailTabAND"
+* "FailTabAND" li element varsa tıkla
+* "2" saniye bekle

@@ -6,10 +6,18 @@ This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
 
 
-Demo
+IOS_GratisBeta_Success
 -----
-tags: IOS_GratisBeta_Demo
+tags: IOS_GratisBeta_Success
 * Beta uygulaması izinler onaylanır
 * Profil tabina tiklanir
 * Profil tabindan Giris yap butonuna tıklanır
+
+IOS_GratisBeta_Fail
+-----
+tags: IOS_GratisBeta_Fail
+* Beta uygulaması izinler onaylanır
+* Profil tabina tiklanir
+* Profil tabindan Giris yap butonuna tıklanır
+* Profil tabina tiklanir Fail
 

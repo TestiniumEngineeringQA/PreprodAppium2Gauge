@@ -38,5 +38,11 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "betaProfilUyeOlBtn"
 * "betaProfilUyeOlBtn" li element varsa tıkla
 
+# Profil tabina tiklanir Fail
+* "7" saniye bekle
+* Elementin yüklenmesini bekle "FailTabIOS"
+* "FailTabIOS" li element varsa tıkla
+* "2" saniye bekle
+
 
 

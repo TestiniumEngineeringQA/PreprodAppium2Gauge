@@ -2113,6 +2113,13 @@
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
+  },
+  {
+    "key": "FailTabAND",
+    "androidValue": "DENEMEEEE",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
   }
 
 ]
