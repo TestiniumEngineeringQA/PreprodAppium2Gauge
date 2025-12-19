@@ -11,7 +11,7 @@ IOS_GratisBeta_Success
 tags: IOS_GratisBeta_Success
 * Beta uygulaması izinler onaylanır
 * Profil tabina tiklanir
-* Profil tabindan Giris yap butonuna tıklanır
+ Profil tabindan Giris yap butonuna tıklanır
 
 IOS_GratisBeta_Fail
 -----
