@@ -77,7 +77,7 @@ public class HookImpl {
                 overridden.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 3000);
                 overridden.setCapability("unicodeKeyboard", false);
                 //desiredCapabilities.setCapability("resetKeyboard", true);
-                URL url = new URL("http://172.25.1.12:4444/wd/hub");
+                URL url = new URL("http://127.0.0.1:4723/");
                 driver = new AndroidDriver(url, overridden);
 
             } else {
@@ -97,7 +97,7 @@ public class HookImpl {
 
 
 
-                URL url = new URL("http://172.25.1.12:4444/wd/hub");
+                URL url = new URL("http://127.0.0.1:4723/");
                 driver = new IOSDriver(url, overridden);
 
 
@@ -128,7 +128,7 @@ public class HookImpl {
                     overridden.setCapability("appium:[skipDeviceInitialization]",true);
                     overridden.setCapability("appium:[skipServerInstallation]",true);
                     overridden.setCapability("appium:[ignoreUnimportantViews]",true);
-                    hubUrl = new URL("http://172.25.1.12:4444/wd/hub");
+                    hubUrl = new URL("http://127.0.0.1:4723/");
                     driver = new TestiniumAndroidDriver(hubUrl,overridden);
 
                     driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
