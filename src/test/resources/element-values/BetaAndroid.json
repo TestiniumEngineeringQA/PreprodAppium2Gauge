@@ -12,6 +12,13 @@
     "androidType": "xpath",
     "iosValue": "",
     "iosType": ""
-  }
+  },
+  {
+  "key": "Baslik",
+  "androidValue": "//*[contains(@text, 'Güncel Kalın')]",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": "id"
+}
 
 ]
