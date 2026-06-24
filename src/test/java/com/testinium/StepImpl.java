@@ -232,6 +232,46 @@ public class StepImpl extends HookImpl {
         return element;
     }
 
+    @Step("Android uygulamasının açık olduğu kontrol edilir")
+    public void checkAndroidApplicationIsOpen() {
+        assertTrue(driver instanceof AndroidDriver, "Aktif sürücü Android değil.");
+
+        String currentPackage = ((AndroidDriver) driver).getCurrentPackage();
+        assertNotNull(currentPackage, "Aktif Android paket bilgisi alınamadı.");
+        assertTrue(
+                currentPackage.toLowerCase(Locale.ROOT).contains("gratis"),
+                "Beklenen Gratis uygulaması açık değil. Aktif paket: " + currentPackage
+        );
+        logger.info("Aktif Android paketi: " + currentPackage);
+    }
+
+    @Step("Android ekran görüntüsü alınır")
+    public void takeAndroidScreenshot() {
+        assertTrue(driver instanceof AndroidDriver, "Aktif sürücü Android değil.");
+
+        byte[] screenshot = driver.getScreenshotAs(OutputType.BYTES);
+        assertTrue(screenshot.length > 0, "Android ekran görüntüsü alınamadı.");
+        logger.info("Android ekran görüntüsü alındı.");
+    }
+
+    @Step("Android ekran yönü kontrol edilir")
+    public void checkAndroidScreenOrientation() {
+        assertTrue(driver instanceof AndroidDriver, "Aktif sürücü Android değil.");
+
+        ScreenOrientation orientation = ((AndroidDriver) driver).getOrientation();
+        assertNotNull(orientation, "Android ekran yönü alınamadı.");
+        logger.info("Android ekran yönü: " + orientation);
+    }
+
+    @Step("Android uygulaması <seconds> saniye arka plana alınır")
+    public void runAndroidApplicationInBackground(int seconds) {
+        assertTrue(driver instanceof AndroidDriver, "Aktif sürücü Android değil.");
+        assertTrue(seconds > 0, "Arka planda bekleme süresi sıfırdan büyük olmalıdır.");
+
+        ((AndroidDriver) driver).runAppInBackground(Duration.ofSeconds(seconds));
+        logger.info("Android uygulaması " + seconds + " saniye arka planda çalıştırıldı ve geri getirildi.");
+    }
+
 }
 
 
