@@ -112,3 +112,203 @@ tags: AND_Android_3_Dakika_Tiklamasiz
 * Android ekran görüntüsü alınır
 * Android ekran yönü kontrol edilir
 * "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
