@@ -66,3 +66,49 @@ tags: AND_GratisBeta_Success_MultiSc
 * Baslik tabina tiklanir (ANDROID)
 * Baslik tabina tiklanir (ANDROID)
 * Profil tabina tiklanir (ANDROID)
+
+
+AND_Android_3_Dakika_Tiklamasiz
+-------------------------------
+tags: AND_Android_3_Dakika_Tiklamasiz
+
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
+* Android uygulamasının açık olduğu kontrol edilir
+* Android ekran görüntüsü alınır
+* Android ekran yönü kontrol edilir
+* "10" saniye bekle
