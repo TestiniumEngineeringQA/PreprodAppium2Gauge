@@ -40,6 +40,13 @@
     "androidType": "",
     "iosValue": "profileLoginRegisterBtn",
     "iosType": "accessibilityId"
+  },
+  {
+    "key": "Empty",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//*[contains(@name, '') or contains(@label, '') or contains(@value, '')]",
+    "iosType": "xpath"
   }
 
 ]
