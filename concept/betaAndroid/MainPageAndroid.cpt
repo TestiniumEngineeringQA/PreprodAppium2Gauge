@@ -18,3 +18,9 @@ This is a concept file with following syntax for each concept.
 * Elementin yüklenmesini bekle "Baslik"
 * "Baslik" li element varsa tıkla
 * "2" saniye bekle
+
+# Empty tabina tiklanir (ANDROID)
+* "3" saniye bekle
+* Elementin yüklenmesini bekle "Empty"
+* "Empty" li element varsa tıkla
+* "2" saniye bekle
