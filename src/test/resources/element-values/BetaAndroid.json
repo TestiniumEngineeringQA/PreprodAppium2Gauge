@@ -19,6 +19,13 @@
   "androidType": "xpath",
   "iosValue": "",
   "iosType": "id"
-}
+  },
+  {
+  "key": "Empty",
+  "androidValue": "//*[contains(@text, '')]",
+  "androidType": "xpath",
+  "iosValue": "",
+  "iosType": "id"
+  }
 
 ]
