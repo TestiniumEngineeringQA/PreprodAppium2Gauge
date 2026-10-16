@@ -9,7 +9,7 @@ AND_GratisBeta_Success
 ----------------
 tags: AND_GratisBeta_Success
 * Beta uygulaması izinler onaylanır
-* Profil tabina tiklanir (ANDROID)
+* Empty tabina tiklanir (ANDROID)
 
 
 AND_GratisBeta_Fail
